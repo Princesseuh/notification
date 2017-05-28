@@ -8,7 +8,7 @@ Tray/Application icon made by EpicCoders from www.flaticon.com
 
 ## Usage
 
-Simply launch the .exe. A pop-up will appear each x seconds (See below for configuration)
+Simply launch the .exe. A pop-up will appear each x minutes (See below for configuration)
 
 To exit the program, right-click the tray icon and press Exit
 
